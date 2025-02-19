@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 50,
+      "image": "/src/assets/headphone.jpeg"
+
+    },
+
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 100,
+      "image": "/src/assets/smartwatch.jpeg"
+
+    },
+    {
+      "id": 3,
+      "name": "Bluetooth Speaker",
+      "price": 75,
+      "image": "/src/assets/bluetooth speaker.jpeg"
+
+
+    },
+    
+    {
+        "id": 4,
+        "name": "Wireless earpods",
+        "price": 30,
+        "image": "/src/assets/wireless.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Smart Watch big size",
+        "price": 200,
+        "image": "/src/assets/watch.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Bluetooth Speaker",
+        "price": 85,
+        "image": "/src/assets/speaker.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Watch",
+      "price": 200,
+      "image": "/src/assets/watch1.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "bluetoothspeaker",
+      "price": 200,
+      "image": "/src/assets/speaker1.jpeg"
+    }
+  ]
